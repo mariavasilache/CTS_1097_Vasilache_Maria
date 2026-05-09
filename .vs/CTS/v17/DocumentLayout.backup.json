@@ -1,7 +1,164 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\CTS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\src\\memento\\Autobuz.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-11\\src\\memento\\Autobuz.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientDirector.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_02field\\PacientDirector.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_02field\\PacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\Pacient.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_02field\\Pacient.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\MainBuilder02.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_02field\\MainBuilder02.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientDirector.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_01reference\\PacientDirector.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\Pacient.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_01reference\\Pacient.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Brancardier.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-04\\src\\factory\\_01simple\\Brancardier.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Asistent.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-04\\src\\factory\\_01simple\\Asistent.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\Seminar-09.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-09\\Seminar-09.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-09\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\Seminar-08.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-08\\Seminar-08.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-08\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\Seminar-06.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\Seminar-06.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-06\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\Seminar-05.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\Seminar-05.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-05\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\Seminar-11.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-11\\Seminar-11.iml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Seminar-11\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +166,482 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{87654321-4321-4321-4321-987654321cba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Autobuz.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\src\\memento\\Autobuz.java",
+              "RelativeDocumentMoniker": "Seminar-11\\src\\memento\\Autobuz.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\src\\memento\\Autobuz.java",
+              "RelativeToolTip": "Seminar-11\\src\\memento\\Autobuz.java",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:56:25.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMedicamentFarmacie.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java",
+              "RelativeDocumentMoniker": "Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java",
+              "RelativeToolTip": "Seminar-08\\src\\adapter\\_01class\\IMedicamentFarmacie.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:56:11.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainClassAdapter.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java",
+              "RelativeDocumentMoniker": "Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java",
+              "RelativeToolTip": "Seminar-08\\src\\adapter\\_01class\\MainClassAdapter.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:56:10.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TipSupa.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\TipSupa.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:46.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupaVita.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaVita.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupaSimpleFactorySingleton.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaSimpleFactorySingleton.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:44.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SupaLegume.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaLegume.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:43.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupaCiuperci.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\SupaCiuperci.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:43.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Supa.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\Supa.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:42.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainSimpleFactorySingleton.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java",
+              "RelativeToolTip": "Seminar-06\\src\\factory\\_01simplesingleton\\MainSimpleFactorySingleton.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:41.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RezervareBuilderSingleton.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java",
+              "RelativeToolTip": "Seminar-06\\src\\builder\\_01fieldsingleton\\RezervareBuilderSingleton.java",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rezervare.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java",
+              "RelativeToolTip": "Seminar-06\\src\\builder\\_01fieldsingleton\\Rezervare.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:31.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainBuilderSingleton.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java",
+              "RelativeToolTip": "Seminar-06\\src\\builder\\_01fieldsingleton\\MainBuilderSingleton.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Builder.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java",
+              "RelativeDocumentMoniker": "Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java",
+              "RelativeToolTip": "Seminar-06\\src\\builder\\_01fieldsingleton\\Builder.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RetetaMedicament.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java",
+              "RelativeToolTip": "Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaMedicament.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RetetaCloneable.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java",
+              "RelativeToolTip": "Seminar-05\\src\\prototype\\_01immutabletypes\\RetetaCloneable.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:15.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPrototype01.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java",
+              "RelativeToolTip": "Seminar-05\\src\\prototype\\_01immutabletypes\\MainPrototype01.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:14.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PacientDirector.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientDirector.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_02field\\PacientDirector.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientDirector.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_02field\\PacientDirector.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PacientBuilder.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientBuilder.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_02field\\PacientBuilder.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\PacientBuilder.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_02field\\PacientBuilder.java",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:08.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pacient.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\Pacient.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_02field\\Pacient.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\Pacient.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_02field\\Pacient.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:07.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainBuilder02.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\MainBuilder02.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_02field\\MainBuilder02.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\MainBuilder02.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_02field\\MainBuilder02.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPacientBuilder.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_02field\\IPacientBuilder.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PacientDirector.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientDirector.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_01reference\\PacientDirector.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientDirector.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_01reference\\PacientDirector.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PacientBuilder.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_01reference\\PacientBuilder.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:55:00.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Pacient.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\Pacient.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_01reference\\Pacient.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\Pacient.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_01reference\\Pacient.java",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:54:58.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MainBuilder01.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_01reference\\MainBuilder01.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:54:57.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPacientBuilder.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java",
+              "RelativeDocumentMoniker": "Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java",
+              "RelativeToolTip": "Seminar-05\\src\\builder\\_01reference\\IPacientBuilder.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:54:55.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Brancardier.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Brancardier.java",
+              "RelativeDocumentMoniker": "Seminar-04\\src\\factory\\_01simple\\Brancardier.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Brancardier.java",
+              "RelativeToolTip": "Seminar-04\\src\\factory\\_01simple\\Brancardier.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:54:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Asistent.java",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Asistent.java",
+              "RelativeDocumentMoniker": "Seminar-04\\src\\factory\\_01simple\\Asistent.java",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-04\\src\\factory\\_01simple\\Asistent.java",
+              "RelativeToolTip": "Seminar-04\\src\\factory\\_01simple\\Asistent.java",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001630|",
+              "WhenOpened": "2026-05-09T12:54:44.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Seminar-09.iml",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\Seminar-09.iml",
+              "RelativeDocumentMoniker": "Seminar-09\\Seminar-09.iml",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\Seminar-09.iml",
+              "RelativeToolTip": "Seminar-09\\Seminar-09.iml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T12:53:56.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\.gitignore",
+              "RelativeDocumentMoniker": "Seminar-09\\.gitignore",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-09\\.gitignore",
+              "RelativeToolTip": "Seminar-09\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-09T12:53:56.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Seminar-08.iml",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\Seminar-08.iml",
+              "RelativeDocumentMoniker": "Seminar-08\\Seminar-08.iml",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\Seminar-08.iml",
+              "RelativeToolTip": "Seminar-08\\Seminar-08.iml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T12:53:56.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\.gitignore",
+              "RelativeDocumentMoniker": "Seminar-08\\.gitignore",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-08\\.gitignore",
+              "RelativeToolTip": "Seminar-08\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-09T12:53:56.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Seminar-06.iml",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\Seminar-06.iml",
+              "RelativeDocumentMoniker": "Seminar-06\\Seminar-06.iml",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\Seminar-06.iml",
+              "RelativeToolTip": "Seminar-06\\Seminar-06.iml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T12:53:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\.gitignore",
+              "RelativeDocumentMoniker": "Seminar-06\\.gitignore",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-06\\.gitignore",
+              "RelativeToolTip": "Seminar-06\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-09T12:53:55.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Seminar-05.iml",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\Seminar-05.iml",
+              "RelativeDocumentMoniker": "Seminar-05\\Seminar-05.iml",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\Seminar-05.iml",
+              "RelativeToolTip": "Seminar-05\\Seminar-05.iml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T12:53:55.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\.gitignore",
+              "RelativeDocumentMoniker": "Seminar-05\\.gitignore",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-05\\.gitignore",
+              "RelativeToolTip": "Seminar-05\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-09T12:53:55.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Seminar-11.iml",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\Seminar-11.iml",
+              "RelativeDocumentMoniker": "Seminar-11\\Seminar-11.iml",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\Seminar-11.iml",
+              "RelativeToolTip": "Seminar-11\\Seminar-11.iml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T12:53:55.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\.gitignore",
+              "RelativeDocumentMoniker": "Seminar-11\\.gitignore",
+              "ToolTip": "D:\\OneDrive\\Desktop\\CTS\\Seminar-11\\.gitignore",
+              "RelativeToolTip": "Seminar-11\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-05-09T12:53:53.875Z"
             }
           ]
         }
